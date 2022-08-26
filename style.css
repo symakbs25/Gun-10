@@ -1,0 +1,43 @@
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  #mainNavbar{
+      padding-left:  50px;
+      padding-top: 20px;
+  }
+  
+  .navbar-dark .navbar-brand{
+  font-family: 'Source Serif Pro', serif;
+  
+  }
+  
+  .navbar-nav .nav-link{
+      font-family: 'Source Serif Pro', serif;
+  
+  }
+  
+  .display-4{
+      font-family: 'Source Serif Pro', serif;
+  }
+  
+  .lead{
+      font-family: 'Source Serif Pro', serif;
+  }
+  
+  .navbar.scrolled {
+      background: rgb(34, 31, 31);
+      transition: background 500ms;
+  }
+  
+  .font-weight-light{
+      font-family: 'Source Serif Pro', serif;
+  }
+  
+  
